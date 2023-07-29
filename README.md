@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Stijn-Vdh
 - 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning Cyber security at Howest
+- 🌱 Graduated Cyber security professional
 - 📫 How to reach me stijn.vanderherten@telenet.be
+- Working at Orange Cyberdefense
 
 <!---
 Stijn-Vdh/Stijn-Vdh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
